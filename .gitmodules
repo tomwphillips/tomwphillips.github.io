@@ -1,0 +1,3 @@
+[submodule "origin"]
+	path = themes/hugo-bearblog
+	url = https://github.com/tomwphillips/hugo-bearblog
