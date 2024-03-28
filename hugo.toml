@@ -1,6 +1,5 @@
 baseURL = 'https://www.tomwphillips.co.uk/'
 languageCode = 'en-GB'
-theme = 'hugo-bearblog'
 title = 'Tom Phillips'
 
 author = "Tom Phillips"
