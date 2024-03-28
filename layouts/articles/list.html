@@ -1,11 +1,7 @@
 {{ define "main" }}
-{{ .Content }}
-
-<h2>Articles</h2>
-
-<ul class="blog-posts">
-    {{ $articles := where .Site.RegularPages "Section" "eq" "articles" }}
-    {{ range $articles }}
+<content>
+  <ul class="blog-posts">
+    {{ range .Pages }}
     <li>
       <span>
         <i>
@@ -22,6 +18,5 @@
     </li>
     {{ end }}
   </ul>
-
+</content>
 {{ end }}
-
