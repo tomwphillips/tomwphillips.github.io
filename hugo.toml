@@ -1,7 +1,6 @@
 baseURL = 'https://www.tomwphillips.co.uk/'
 languageCode = 'en-GB'
 title = 'Tom Phillips'
-
 author = "Tom Phillips"
 
 # Generate a nice robots.txt for SEO
