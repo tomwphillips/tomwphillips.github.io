@@ -3,6 +3,12 @@
 
 <h2>Posts</h2>
 
+{{ with .Site.GetPage "section" "blog" }}
+  {{ with .OutputFormats.Get "rss" }}
+    Subscribe via <a href="{{ .Permalink }}">RSS</a>.
+  {{ end }}
+{{ end }}
+
 <ul class="blog-posts">
     {{ $articles := where .Site.RegularPages "Section" "eq" "blog" }}
     {{ range $articles }}
