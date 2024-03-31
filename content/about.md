@@ -1,6 +1,7 @@
 +++
 title = "About"
 menu = "main"
+description = "Tom Phillips is an engineer with over a decade of experience working with data in scientific research and business, primarily finance."
 +++
 
 I am an engineer with over a decade of experience working with data in scientific research and business, primarily finance.
