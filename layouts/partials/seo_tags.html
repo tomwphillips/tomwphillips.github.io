@@ -4,3 +4,5 @@
 <meta name="keywords" content="{{ if .IsPage}}{{ range $index, $tag := .Params.tags }}{{ $tag }},{{ end }}{{ else }}{{ range $plural, $terms := .Site.Taxonomies }}{{ range $term, $val := $terms }}{{ printf "%s," $term }}{{ end }}{{ end }}{{ end }}">
 
 {{ partial "opengraph.html" . }}
+
+<link rel="me" href="https://hachyderm.io/@twp">
