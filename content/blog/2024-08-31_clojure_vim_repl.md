@@ -35,4 +35,4 @@ I've got a project I started with Leinigen. I start up the REPL with `lein repl`
 
 Now I open up `src/noughts_and_crosses/model.clj` in vim. At the start of the file the namespace is defined with `(ns noughts-and-crosses.model)`. I type `(doc frequencies)` into the file then evaluate it  (`,ee`) and Clojure complains it can't resolve `doc`! Evaluating `*ns*` tells me I'm in the `noughts-and-crosses.model` namespace, so something is switching me into the file's namespace, but _isn't_ loading `doc` from `clojure.repl`.
 
-I couldn't get to the bottom of *why* this happens. I suppose the Leinigen REPL adds loads a bunch of namespaces for convenience.
+I couldn't get to the bottom of *why* this happens. I suppose the Leinigen REPL loads a bunch of namespaces for convenience.
