@@ -4,7 +4,7 @@ menu = "main"
 description = "Tom Phillips is an engineer with over a decade of experience working with data in scientific research and business, primarily finance."
 +++
 
-I am an engineer with over a decade of experience working with data in scientific research and business, primarily finance.
+I am a data and software engineer with over a decade of experience working with data in scientific research and business, primarily finance.
 
 I have a PhD in Chemistry from Imperial College London, where I [built chemical reactors to make high-quality nanoparticles for solar photovoltaics](http://hdl.handle.net/10044/1/64907). You can find my publications on [Google Scholar](https://scholar.google.com/citations?hl=en&user=8BSQ__QAAAAJ).
 
@@ -16,4 +16,4 @@ All views here are my own and do not represent those of my employer, past or pre
 
 You can [email me](mailto:tom@tomwphillips.co.uk). Get in touch if you have an opinion on my posts. I enjoy hearing from people with similar interests.
 
-I'm on [Mastodon](https://hachyderm.io/@twp) and [LinkedIn](https://www.linkedin.com/in/tomwphillips/), but I don't post much.
+I'm on [@twp@hachyderm.io](https://hachyderm.io/@twp) on the Fediverse.
