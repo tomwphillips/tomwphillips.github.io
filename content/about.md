@@ -16,4 +16,4 @@ All views here are my own and do not represent those of my employer, past or pre
 
 You can [email me](mailto:tom@tomwphillips.co.uk). Get in touch if you have an opinion on my posts. I enjoy hearing from people with similar interests.
 
-I'm on [@twp@hachyderm.io](https://hachyderm.io/@twp) on the Fediverse.
+I'm [@twp@hachyderm.io](https://hachyderm.io/@twp) on the Fediverse.

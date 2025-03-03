@@ -19,13 +19,13 @@ anymore. They operate in an authoritarian regime. I can only see the situation g
 
 So a week ago I switched to a Pixel 8a running [GrapheneOS](https://grapheneos.org/).
 
-GrapheneOS is privacy and security focussed mobile operating system based on the [Android Open Source Project](https://source.android.com/). One of its [features](https://grapheneos.org/features) is [sandboxed Google Play](https://grapheneos.org/features#sandboxed-google-play), so you can download things like banking apps that don't work or are unreliable on other Android OS like [/e/os](https://e.foundation/e-os/) and [LineageOS](https://lineageos.org/).
+GrapheneOS is a privacy and security focussed mobile operating system based on the [Android Open Source Project](https://source.android.com/). One of its [features](https://grapheneos.org/features) is [sandboxed Google Play](https://grapheneos.org/features#sandboxed-google-play), so you can download things like banking apps that don't work or are unreliable on other Android OS like [/e/os](https://e.foundation/e-os/) and [LineageOS](https://lineageos.org/).
 
-I chose a Pixel 8a because it is [recommended device by GrapheneOS](https://grapheneos.org/faq#recommended-devices) and comes with 7 years of support from launch (May 2024). [Wirecutter also recommends it as their budget pick](https://www.nytimes.com/wirecutter/reviews/best-android-phone/). It's also well-priced. I paid £349. I'd have preferred a [Fairphone](https://www.fairphone.com/) over a Google device, but they're more expensive and unsupported by GrapheneOS.
+I chose a Pixel 8a because it is a device [recommended by GrapheneOS](https://grapheneos.org/faq#recommended-devices) and comes with 7 years of support from launch (May 2024). [Wirecutter also recommends it as their budget pick](https://www.nytimes.com/wirecutter/reviews/best-android-phone/). It's also well-priced. I paid £349. I'd have preferred a [Fairphone](https://www.fairphone.com/) over a Google device, but they're more expensive and unsupported by GrapheneOS.
 
 Installing [GrapheneOS via WebUSB](https://grapheneos.org/install/web) was easy (and really cool). Overall, I've found it intuitive and easy to use. Perhaps it's slightly less polished than iOS, but it's fine.
 
-It was easy to find replacement for apps. I already use [FastMail](https://www.fastmail.com/), so I downloaded their app for my email, calendars and contacts. I downloaded [DAVx5](https://www.davx5.com/) to sync my FastMail contacts to the Contacts app. For now I have some calendars shared with my partner on iCloud. I'm accessing those [via FastMail](https://www.fastmail.help/hc/en-us/articles/360058752754-How-to-synchronize-a-calendar) too.
+It was easy to find replacement for apps. I already use [Fastmail](https://www.fastmail.com/), so I downloaded their app for my email, calendars and contacts. I downloaded [DAVx5](https://www.davx5.com/) to sync my Fastmail contacts to the Contacts app. For now I have some calendars shared with my partner on iCloud. I'm accessing those [via Fastmail](https://www.fastmail.help/hc/en-us/articles/360058752754-How-to-synchronize-a-calendar) too.
 
 I simply stopped using iMessage. Everyone uses WhatsApp or, better, Signal anyway.
 
@@ -37,7 +37,7 @@ I've used [Things](https://culturedcode.com/things/) to manage todo lists since 
 
 The only niggle so far was some lag on the GrapheneOS camera app when pressing the shutter button. I downloaded the Google Camera app and disabled network access. It's much faster.
 
-I've not tried out device backups yet, but since my data is either in FastMail, Ente, 1Password or Obsidian, I feel comfortable with the risk. I might try backing up to a USB stick.
+I've not tried out device backups yet, but since my data is either in Fastmail, Ente, 1Password or Obsidian, I feel comfortable with the risk. I might try backing up to a USB stick.
 
 I installed Obsidian and Tor via `.apk` files. You just download and install it! I got [Organic Maps](https://organicmaps.app/) from the [Accrescent store](https://accrescent.app). I might try out [Obtainium](https://github.com/ImranR98/Obtainium).
 
