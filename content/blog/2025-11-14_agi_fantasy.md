@@ -30,3 +30,4 @@ As a technologist I want to solve problems effectively (by bringing about the de
 
 LLMs-as-AGI fail on all three fronts. The computational profligacy of LLMs-as-AGI is dissatisfying, and the exploitation of data workers and the environment unacceptable. Instead, if we drop the AGI fantasy, we can evaluate LLMs and other generative models as solutions for specific problems, rather than *all* problems, with proper cost benefit analysis. For example, by using smaller purpose-built generative models, or even discriminative (non-generative) models. In other words, make trade-offs and actually do engineering.
 
+_[Discuss on Hacker News](https://news.ycombinator.com/item?id=45926469)_.
