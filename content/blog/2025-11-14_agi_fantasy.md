@@ -1,7 +1,7 @@
 +++
 title = 'AGI fantasy is a blocker to actual engineering'
 date = 2025-11-14T06:32:56Z
-description = ':AGI is a harmful and wasteful fantasy that runs counter to the principles of efficient and effective engineering.'
+description = 'AGI is a harmful and wasteful fantasy that runs counter to the principles of efficient and effective engineering.'
 [params]
 	licence = "CC-BY-4.0"
 +++
