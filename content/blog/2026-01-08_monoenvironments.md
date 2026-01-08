@@ -1,7 +1,6 @@
 +++
 title = 'Staging is a wasteful lie: the case for the mono-environment'
 date = 2026-01-08T06:00:00Z
-draft = true
 description = "Staging doesn't catch bugs, slows delivery, and makes developers miserable. Ship straight to production instead."
 [params]
 	licence = "CC-BY-4.0"
