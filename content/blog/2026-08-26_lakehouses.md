@@ -1,6 +1,7 @@
 +++
 title = 'The benefits of data lakehouses are overstated: open data != open platform'
 date = 2026-08-26T21:25:32+01:00
+slug = "the-benefits-of-data-lakehouses-are-overstated"
 description = "Data lakehouses offer real benefits, but the case for cheaper storage, compute flexibility and reduced lock-in is more nuanced than vendors suggest."
 [params]
 	licence = "CC-BY-4.0"
