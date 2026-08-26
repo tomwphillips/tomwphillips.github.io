@@ -1,7 +1,6 @@
 baseURL = 'https://www.tomwphillips.co.uk/'
 languageCode = 'en-GB'
 title = 'Tom Phillips'
-author = "Tom Phillips"
 
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
@@ -41,6 +40,9 @@ ignoreErrors = ["error-disable-taxonomy"]
   # for details. An example TOML config that uses [ISO
   # 8601](https://en.wikipedia.org/wiki/ISO_8601) format:
   dateFormat = "02 Jan 2006"
+
+[params.author]
+  name = "Tom Phillips"
 
 [outputs]
   home = ["html"]
